@@ -3,7 +3,7 @@
 <body>
 
 <?php
-$score = 0;
+$score = 1;
 echo $score;
 ?>
 
