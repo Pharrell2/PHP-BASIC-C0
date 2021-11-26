@@ -1,9 +1,9 @@
 <?Php
 $getal1 =7;
-echo $getal1++;
-echo "<br>"
+$getal1++28;
+echo $getal1. "<br>";
 
 $getal1 =19;
-echo $getal1--;
-echo "<br>"
+$getal1--5;
+echo $getal1. "<br>";
 ?>
