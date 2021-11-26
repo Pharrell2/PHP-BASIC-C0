@@ -12,6 +12,6 @@ $getal1-=69;
 echo $getal1."<br>";
 
 $getal1 = 91;
-$getal1/= ;
+$getal1 /=33;
 echo $getal1."<br>";
 ?>
